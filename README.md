@@ -7,8 +7,12 @@ https://github.com/Fadhlih2001/NewcomersAnalysisBasedOnLabels
 ## Contents
 
 * Code
+  *  
 * Dataset - a directory of the dataset
-
+  * aws_aws-cdk_close.json
+  * benjaminp_six.json
+  * numpy_numpy.json
+  * pallets_flask.json
 
 ## Author
 * Yusuf Sulistyo Nugroho
