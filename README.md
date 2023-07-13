@@ -6,14 +6,14 @@ https://github.com/Fadhlih2001/NewcomersAnalysisBasedOnLabels
 
 ## Contents
 
-Code
-dataset - a directory of the dataset
+* Code
+* Dataset - a directory of the dataset
 
 
 ## Author
-Yusuf Sulistyo Nugroho
-Raula Gaikovina Kula
-Kenichi Matsumoto
+* Yusuf Sulistyo Nugroho
+* Raula Gaikovina Kula
+* Kenichi Matsumoto
 
 ## Related Paper
 
