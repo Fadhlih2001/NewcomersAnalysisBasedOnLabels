@@ -2,7 +2,7 @@
 
 https://github.com/Fadhlih2001/NewcomersAnalysisBasedOnLabels
 
-[Description]
+This research for the paper 
 
 ## Contents
 
@@ -16,6 +16,7 @@ https://github.com/Fadhlih2001/NewcomersAnalysisBasedOnLabels
   * benjaminp_six.json
   * numpy_numpy.json
   * pallets_flask.json
+* README.md - this file 
 
 ## Author
 * Yusuf Sulistyo Nugroho
