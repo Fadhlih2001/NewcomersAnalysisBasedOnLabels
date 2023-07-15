@@ -2,7 +2,7 @@
 
 https://github.com/Fadhlih2001/NewcomersAnalysisBasedOnLabels
 
-This research for the paper 
+This research for the paper Newcomers Analysis Based on Labels --histogram for Code Changes. This artifact is a repository of (a)  (b) 
 
 ## Contents
 
