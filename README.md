@@ -13,7 +13,8 @@ This research for the paper Newcomers Analysis Based on Labels --histogram for C
   *  SIX - a directory of SIX code
    *   Every directory contains:
     *   Document Clustering
-    *   Take Newcomers and Experts
+    *   Take Newcomers and Experts data
+    *   Tools for change CSV to TXT
 * Dataset - a directory of the dataset
   * aws_aws-cdk_close.json 
   * benjaminp_six.json
