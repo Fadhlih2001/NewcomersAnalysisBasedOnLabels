@@ -12,17 +12,17 @@ This research for the paper Newcomers Analysis Based on Labels --histogram for C
   *  `NUMPY` - a directory of NUMPY code
   *  `SIX` - a directory of SIX code
       Every directory contains:
-    *   `Document Clustering` - 
-    *   `Take Newcomers and Experts data` - 
-    *   `Tools for change CSV to TXT` - 
+    *   `Document Clustering` - TXT file from `Tools for change CSV to TXT` that is used for Document Clustering using LDA and analyze it
+    *   `Take Newcomers and Experts data` - Take all Newcomers and Expert issues from the dataset
+    *   `Tools for change CSV to TXT` - Change Newcomers and Experts data format to TXT
       For additional `NUMPY` has:
     * 
 
 * `Dataset` - a directory of the dataset
-  * `aws_aws-cdk_close.json` 
-  * `benjaminp_six.json`
-  * `numpy_numpy.json`
-  * `pallets_flask.json`
+  * `aws_aws-cdk_close.json` - all issues that take from AWS-CDK repository on Github 
+  * `benjaminp_six.json` - all issues that take from Six repository on Github 
+  * `numpy_numpy.json` - all issues that take from Numpy repository on Github 
+  * `pallets_flask.json` - all issues that take from Flask repository on Github 
     
 * `README.md` - this file 
 
