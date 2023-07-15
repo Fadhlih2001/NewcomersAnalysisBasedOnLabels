@@ -11,8 +11,11 @@ This research for the paper Newcomers Analysis Based on Labels --histogram for C
   *  FLASK - a directory of FLASK code
   *  NUMPY - a directory of NUMPY code
   *  SIX - a directory of SIX code
+   *   Every directory contains:
+    *   Document Clustering
+    *   Take Newcomers and Experts
 * Dataset - a directory of the dataset
-  * aws_aws-cdk_close.json
+  * aws_aws-cdk_close.json 
   * benjaminp_six.json
   * numpy_numpy.json
   * pallets_flask.json
