@@ -12,9 +12,9 @@ This research for the paper Newcomers Analysis Based on Labels --histogram for C
   *  `NUMPY` - a directory of NUMPY code
   *  `SIX` - a directory of SIX code
       Every directory contains:
-    *   `Document Clustering` - TXT file from `Tools for change CSV to TXT` that is used for Document Clustering using LDA and analyze it
+    *   `Document Clustering` - TXT file from `Tools for change CSV to TXT with delimiter` that is used for Document Clustering using LDA and analyzing it
     *   `Take Newcomers and Experts data` - Take all Newcomers and Expert issues from the dataset
-    *   `Tools for change CSV to TXT` - Change Newcomers and Experts data format to TXT
+    *   `Tools for change CSV to TXT with delimiter` - Change Newcomers and Experts data format to TXT
       For additional `NUMPY` has:
     * 
 
