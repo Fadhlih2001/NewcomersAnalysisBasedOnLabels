@@ -16,7 +16,7 @@ Every directory contains:
     *   `Take Newcomers and Experts data` - Take all Newcomers and Expert issues from the dataset
     *   `Tools for change CSV to TXT with delimiter` - Change Newcomers and Experts data format to TXT
 For additional `NUMPY` has:
-    * 
+    * `Compare two CSV` - For Comparing CSV the result from Newcomers and Expert issues of Numpy
 
 * `Dataset` - a directory of the dataset
   * `aws_aws-cdk_close.json` - all issues that take from AWS-CDK repository on Github 
