@@ -34,6 +34,6 @@ For additional `NUMPY` has:
 ## Related Paper
 
 ## MIT License for code
-
+Our Code implementation is licensed under the MIT License.
 
 
