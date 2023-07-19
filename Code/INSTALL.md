@@ -22,4 +22,4 @@
 12. Then run Newcomers_Clustering.ipynb to know result of LDA of Newcomers data.
 13. Then run Experts_Clustering.ipynb to know result of LDA of Experts data.
 14. Then run Combined_Clustering.ipynb to know result of LDA of Combined data.
-15. Repeat it with a different project.
+15. Repeat step 2 until 14 with a different project.
