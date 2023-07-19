@@ -10,6 +10,6 @@
    git clone https://github.com/Fadhlih2001/NewcomersAnalysisBasedOnLabels.git
    ```
    output: `/Users/<yourusername>/NewcomersAnalysisBasedOnLabels/`
-2. Put a dataset example  into a project directory then 'take newcomer and expert directory' 
+2. Put a dataset example `aws_aws-cdk_close.json` into a project directory example `AWS-CDK` then 'take newcomer and expert directory' 
 3. 
 4. 
