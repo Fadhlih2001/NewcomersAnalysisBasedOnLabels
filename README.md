@@ -2,7 +2,7 @@
 
 https://github.com/Fadhlih2001/NewcomersAnalysisBasedOnLabels
 
-This research for the paper Newcomers Analysis Based on Labels --histogram for Code Changes. This artifact is a repository of (a) Code (b) Dataset 
+This research for the paper Newcomers Analysis Based on Labels --histogram for Code Changes. This artifact is a repository of (a) Code; code for taking (b) Dataset including (i) 18,212 issues on AWS-CDK repository (ii) 368 issues on SIX repository (iii) 4,649 issues on FLASK Repository (iv) 22165 issues on NUMPY repository 
 
 ## Contents
 
