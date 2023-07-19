@@ -1,4 +1,4 @@
-# Research Artefacts: Newcomers Analysis Based on Labels
+# Research Artifacts: Newcomers Analysis Based on Labels
 
 https://github.com/Fadhlih2001/NewcomersAnalysisBasedOnLabels
 
