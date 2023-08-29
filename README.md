@@ -26,9 +26,10 @@ This research for the paper Newcomers Analysis Based on Labels --histogram for C
     
 * `README.md` - this file 
 
-## Author
-* [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/)
+## Authors
+* Fadhlih Hasan Setiawan
 * Raula Gaikovina Kula
+* [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/)
 * Kenichi Matsumoto
 
 ## Related Paper
